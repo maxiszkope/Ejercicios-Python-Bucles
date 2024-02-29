@@ -1,7 +1,7 @@
-![](python.png)
-
-
 # Python Basics: Bucles, Funciones y Listas
+
+
+![](python.png)
 
 ## Bucles For
 Los bucles `for` nos permiten iterar sobre elementos en estructuras de datos de Python. La sintaxis básica es:
